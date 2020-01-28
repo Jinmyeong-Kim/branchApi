@@ -32,6 +32,7 @@
 4) 결과를 확인하실 수 있는 URL은 다음과 같습니다.
 
    (편의상 localhost라 했으나 사용하고 계시는 pc의 IP를 적으셔도 됩니다. 포트번호 8000이 겹친다면 application.yml에서 숫자만 바꿔주세요.)
+* 연결 확인용 URL : http://localhost:8000/
 * 문제1 URL : http://localhost:8000/test1
 * 문제2 URL : http://localhost:8000/test2
 * 문제3 URL : http://localhost:8000/test3
