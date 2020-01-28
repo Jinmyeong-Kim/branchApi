@@ -14,7 +14,7 @@
 1) github 주소나 google drive에서 zip파일을 받아주세요.
 2) 받으신 zip파일을 STS에서 import 해주세요.(eclipse에서 import 시 안 되실 수 있습니다.)
 * 개발툴(STS) 다운로드 : 
-  https://spring.io/tools 에서 운영체제에 맞는 설치파일을 받아주세요.
+  https://spring.io/tools 에서 운영체제에 맞는 설치파일을 받아주세요.   
   아니면 공유해드린 구글 드라이브 주소에서 받아주세요.
 * import 방법 :
 
