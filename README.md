@@ -1,4 +1,4 @@
-# JmkimBranchApi
+# BranchApi
 ### Spring boot를 활용하여 특정 데이터를 조회하는 프로그램입니다.
 
 
